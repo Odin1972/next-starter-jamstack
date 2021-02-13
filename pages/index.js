@@ -3,9 +3,12 @@ import Head from 'next/head'
 
 const Home = () => (
   <div>
-    <h1>Emmanuel Lambert Illustrateur</h1>
+    <h1>Emmanuel Lambert</h1>
 
-    <h3>Hooray 🎉 !</h3>
+    <h3>Illustrations</h3>
+    <h3>Animations vectorielles</h3>
+    <h3>Art Digital</h3>
+
 
     <style jsx>{`
       :global(html,body) {
